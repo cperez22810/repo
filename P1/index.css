@@ -1,0 +1,25 @@
+header {
+    background-color: blue;
+    height: 40px;
+    padding: 20px 40px 20px 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.nav {
+    background-color: blueviolet;
+    height: 20px;
+    padding: 20px 40px 20px 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    margin-top: 20px;
+}
+.section {
+
+}
